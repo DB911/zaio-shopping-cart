@@ -1,0 +1,269 @@
+/* Comments */
+
+ul button
+{
+    border: none;
+    padding: 5px;
+    display: inline-block;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 50%;
+    width : 40px;
+    height : 40px;
+}
+
+button.color1
+{
+    background-color : Firebrick;
+}
+button.color2
+{
+    background-color : DarkSlateBlue;
+}
+button.color3
+{
+    background-color : Black;
+}
+button.color4
+{
+    background-color : White;
+}
+button.color5
+{
+    background-color : chocolate;
+}
+button.color6
+{
+    background-color : Goldenrod;
+}
+button.color7
+{
+    background-color: MidnightBlue;
+}
+button.color8
+{
+    background-color : SlateGrey;
+}
+button.color9
+{
+    background-color : Cornsilk;
+}
+input.color10
+{
+    background-color : lightskyblue;
+}
+button.color11
+{
+    color : yellowgreen;
+}
+button.color12
+{
+    background-color : MediumVioletRed;
+}
+button.color13
+{
+    background-color : Moccasin;
+}
+button.color14
+{
+    background-color : DarkOliveGreen;
+}
+button.color15
+{
+    background-color : DimGray;
+}
+button.color16
+{
+    background-color : SaddleBrown;
+}
+button.color17
+{
+    background-color : Aquamarine;
+}
+input.color18
+{
+    background-color : Gainsboro;
+}
+
+
+#content
+{
+    background-color : white;
+    margin : 10px;
+    padding: 20px;
+    align-content: center;
+}
+
+.grey_text
+{
+    color : DimGray;
+}
+
+div h3
+{
+    color : OrangeRed;
+}
+footer
+{
+    background-color : Black;
+}
+
+footer p
+{
+    color : white;
+}
+
+footer span
+{
+    color : white;
+    padding : 20px;
+}
+footer a
+{
+    color: white;
+}
+
+.Agree
+{
+    background-color : lightgreen;
+    padding : 10px;
+    margin : 5px;
+    border-radius : 10px;
+    border-color: lightgreen;
+}
+
+.Cancel
+{
+    background-color : darksalmon;
+    padding : 10px;
+    margin : 5px;
+    border-radius : 10px;
+    border-color: darksalmon;
+}
+
+form div
+{
+    margin : 5px;
+}
+
+.Increase
+{
+    background-color : black;
+    color: white;
+    font-size: large;
+    padding : 5px;
+    margin : 5px;
+    size : 15px;
+    border-radius: 50%;
+    height : 50px;
+    width : 50px;
+    font-size: xx-large;
+    border : none;
+}
+
+.Decrease
+{
+    background-color : black;
+    color: white;
+    font-size: large;
+    padding : 5px;
+    margin : 5px;
+    size : 15px;
+    border-radius: 50%;
+    width : 50px;
+    height : 50px;
+    font-size: xx-large;
+    border : none;
+}
+
+.price
+{
+    color : indianred;
+    font-size: xx-large;
+}
+
+div
+{
+    margin : 5px;
+}
+div span
+{
+    margin : 5px
+}
+
+.exclusive
+{
+    padding : 20px;
+}
+
+.Add
+{
+    size: 15px;
+    background-color : black;
+    color : white;
+    width : 25%;
+    height : 50px;
+    border-radius : 30px;
+    border: none;
+    margin : 5px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.quantity
+{
+    color : black;
+    background-color : white;
+    border-color : black;
+    border-radius : 30px;
+    size : 15px;
+    width : 50px;
+    height : 50px;
+    font-size: large;
+    margin : 5px;
+}
+
+input :hover
+{
+    position : relative;
+    top : -4px;
+}
+img :hover
+{
+    position : relative;
+    top : -4px;
+}
+
+@media screen and (max-width : 1400px)
+{
+
+}
+
+
+.form-popup
+{
+    display : none;
+    position : fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+.form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+}
+
+.form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
